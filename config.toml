@@ -2,4 +2,4 @@ baseURL = "https://rudimk.com/"
 languageCode = "en-us"
 title = "Rudi MK"
 
-theme = "terminal"
+theme = "shell"
