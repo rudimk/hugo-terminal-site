@@ -72,10 +72,3 @@ theme = "shell"
     ["Hugo", "/post/some-activity.md"],
     ["Docker", "/post/some-activity.md"],
   ]
-
-  [Params.Tree]
-  use = true
-  folderName = "music"
-  files = [
-    ["Spotify", "https://lab.rudimk.com"],
-  ]
